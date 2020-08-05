@@ -13,7 +13,7 @@ Source Code: (Python)
 1. Source code is available for downloading and editing.
 2. Python provides the features for downloading the video in different formats and qulaity,
    however in the application only those streams are shown for which progressive download
-   was true.
+   was available.
 3. You can edit the code according to your wish to download the youtube videos in the format
    you want or video without audio or audio without video.
 4. You can also edit the code for downloading the video in the directory you want.
