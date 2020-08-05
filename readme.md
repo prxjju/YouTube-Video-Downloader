@@ -7,7 +7,7 @@ Instructions to use:
 3. A window "Availale Streams" will open in which all the available streams will be shown.
 4. Check the quality available for download for downloading and nogte its "itag" value.
 5. Enter the "itag" value and click on download button.
-6. Your video will be donloaded in the same directory where your application will be stored.
+6. Your video will be downloaded in the same directory where your application will be stored.
 
 Source Code: (Python)
 1. Source code is available for downloading and editing.
