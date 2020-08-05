@@ -16,4 +16,7 @@ Source Code: (Python)
 3. You can edit the code according to your wish to download the youtube videos in the format
    you want or video without audio or audio without video.
 
+Note:
+To avoid any error, prefer downloading the whole folder instead of only application file.
+
 Thank You <3
