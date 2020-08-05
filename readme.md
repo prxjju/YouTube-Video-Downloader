@@ -1,5 +1,6 @@
 # YouTube-Video-Downloader
 A simple GUI based desktop application to download YouTube videos.
+
 Instructions to use:
 1. Copy the YouTube video link you want to download.
 2. Click on check stream button.
